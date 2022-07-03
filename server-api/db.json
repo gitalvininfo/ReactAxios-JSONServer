@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": "ac1cc294-f45f-4fcf-9845-777ad1f2dc8a",
+      "name": "Alvin Noigga",
+      "email": "alvin@gmail.com"
+    },
+    {
+      "id": "a9f3570f-f15b-47b8-b196-5c2dd9bbbaf0",
+      "name": "Max",
+      "email": "max@gmail.com"
+    }
+  ]
+}
